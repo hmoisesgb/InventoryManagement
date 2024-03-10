@@ -4,7 +4,7 @@ This is an Inventory Management Program. This program keeps track of the quantit
 
 I made this program to understand the basics of SQL Relational Databases,and to demonstrate how to use SQLite with Python with the sqlite3 library.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Ekupuy1eeAs)
 
 # Relational Database
 
